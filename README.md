@@ -1,4 +1,4 @@
-# Enhanced-User-Interface-v1.30-Ru-transleted
+# Enhanced-User-Interface-v1.30-Ru-transleted CIV 5
 # Enhanced User Interface (EUI) - Полный Русский Перевод
 
 Это версия мода **EUI v1.30** с полным и исправленным русским переводом.
